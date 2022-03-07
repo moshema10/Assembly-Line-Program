@@ -8,5 +8,5 @@ The assembly line consists of a set of workstations each of which holds a set of
 
 # HOW TO RUN
 
-Download the repo and run the solution file
+Download the repo and run the MS3.sln solution file.
 
