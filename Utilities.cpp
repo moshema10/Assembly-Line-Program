@@ -1,10 +1,3 @@
-// Name: Shehtab Masud
-// Seneca Student ID: 119038206
-// Seneca email: smasud3@myseneca.ca
-// Date of completion: 11/20/2021
-//
-// I confirm that I am the only author of this file
-//   and the content was created entirely by me.
 
 
 #include <iostream>
